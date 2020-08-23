@@ -1,0 +1,5 @@
+,Glucose,Butyrate,Propionate,Acetate,Methane,Carbon dioxide,Hydrogen gas,Water,Biomass
+C,6,4,3,2,1,1,0,0,1
+H,12,8,6,4,4,0,2,2,1.8
+O,6,2,2,2,0,2,0,1,0.5
+electron,24,20,14,8,8,0,2,0,4.8
