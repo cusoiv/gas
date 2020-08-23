@@ -3,6 +3,8 @@ Project folder for the paper "Prebiotics and Community Composition Influence Gas
 
 The "gas_production_summary_upload.md" file is the knitted Rmarkdown output for all figures in the paper except figure 5d. The corresponding rmd file is "gas_production_summary_upload.rmd". Note that the figures in the Rmarkdown are grouped by the similarity of the analysis and not the sequence of the figures in the paper.
 
+Files for figure 5d is in the folder figure 5d. The Rmarkdown file for figure 5d is "gene_distribution.md"
+
 OTU tables for ex vivo communities:
 gas_9ppl.rds and taxa_species_use.csv
 
